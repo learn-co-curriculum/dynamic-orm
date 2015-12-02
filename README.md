@@ -133,3 +133,5 @@ def self.connection
   DBConnection.instance.connection
 end
 ```
+
+<a href='https://learn.co/lessons/dynamic-orm' data-visibility='hidden'>View this lesson on Learn.co</a>
